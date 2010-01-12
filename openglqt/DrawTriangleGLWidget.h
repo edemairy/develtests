@@ -3,7 +3,7 @@
 #include <GL/gl.h>
 #include <GL/glu.h>
 #include <QObject>
-
+#include <QTimer>
 
 class DrawTriangleGLWidget : public QGLWidget 
 {
