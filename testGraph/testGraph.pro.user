@@ -1,0 +1,279 @@
+<!DOCTYPE QtCreatorProject>
+<qtcreator>
+ <data>
+  <variable>RunConfiguration0-CommandLineArguments</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-ProFile</variable>
+  <value type="QString">testGraph.pro</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-RunConfiguration.name</variable>
+  <value type="QString">testGraph</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseDyldImageSuffix</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseTerminal</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserEnvironmentChanges</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetName</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-type</variable>
+  <value type="QString">Qt4ProjectManager.Qt4RunConfiguration</value>
+ </data>
+ <data>
+  <variable>activeRunConfiguration</variable>
+  <value type="int">0</value>
+ </data>
+ <data>
+  <variable>activebuildconfiguration</variable>
+  <value type="QString">Debug</value>
+ </data>
+ <data>
+  <variable>buildConfiguration-Debug</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <value key="QtVersionId" type="int">0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildConfiguration-Release</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <value key="QtVersionId" type="int">0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">CGAL_MAKEFILE=/usr/share/CGAL/cgal-64.mk</value>
+    <value type="QString">COLORFGBG=15;0</value>
+    <value type="QString">CVS_RSH=ssh</value>
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-GYN0CgIxpT,guid=82a08b177127a82f9be010db4c36c99e</value>
+    <value type="QString">DESKTOP_SESSION=kde</value>
+    <value type="QString">DISPLAY=:0</value>
+    <value type="QString">EDITOR=vi</value>
+    <value type="QString">GDMSESSION=kde</value>
+    <value type="QString">GDM_LANG=en_US.UTF-8</value>
+    <value type="QString">GNOME_KEYRING_PID=3091</value>
+    <value type="QString">GNOME_KEYRING_SOCKET=/tmp/keyring-Ya1pJj/socket</value>
+    <value type="QString">GPG_AGENT_INFO=/tmp/gpg-rklzwc/S.gpg-agent:3204:1</value>
+    <value type="QString">GS_LIB=</value>
+    <value type="QString">GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/user/edemairy/home/.gtkrc-2.0::/home/edemairy/.kde/share/config/gtkrc-2.0</value>
+    <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/user/edemairy/home/.gtkrc::/home/edemairy/.kde/share/config/gtkrc</value>
+    <value type="QString">G_BROKEN_FILENAMES=1</value>
+    <value type="QString">HISTSIZE=1000</value>
+    <value type="QString">HOME=/user/edemairy/home</value>
+    <value type="QString">HOSTNAME=ysera</value>
+    <value type="QString">KDEDIRS=/usr</value>
+    <value type="QString">KDE_FULL_SESSION=true</value>
+    <value type="QString">KDE_IS_PRELINKED=1</value>
+    <value type="QString">KDE_MULTIHEAD=false</value>
+    <value type="QString">KDE_SESSION_UID=1505</value>
+    <value type="QString">KDE_SESSION_VERSION=4</value>
+    <value type="QString">KONSOLE_DBUS_SERVICE=:1.38</value>
+    <value type="QString">KONSOLE_DBUS_SESSION=/Sessions/4</value>
+    <value type="QString">LANG=en_US.UTF-8</value>
+    <value type="QString">LANGUAGE=</value>
+    <value type="QString">LD_LIBRARY_PATH=/usr/local/cuda/lib64</value>
+    <value type="QString">LESSOPEN=|/usr/bin/lesspipe.sh %s</value>
+    <value type="QString">LOGNAME=edemairy</value>
+    <value type="QString">LS_COLORS=no=00:fi=00:di=00;34:ln=00;36:pi=40;33:so=00;35:do=00;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=00;32:*.tar=00;31:*.tgz=00;31:*.svgz=00;31:*.arj=00;31:*.taz=00;31:*.lzh=00;31:*.lzma=00;31:*.zip=00;31:*.z=00;31:*.Z=00;31:*.dz=00;31:*.gz=00;31:*.bz2=00;31:*.tbz2=00;31:*.bz=00;31:*.tz=00;31:*.deb=00;31:*.rpm=00;31:*.jar=00;31:*.rar=00;31:*.ace=00;31:*.zoo=00;31:*.cpio=00;31:*.7z=00;31:*.rz=00;31:*.jpg=00;35:*.jpeg=00;35:*.gif=00;35:*.bmp=00;35:*.pbm=00;35:*.pgm=00;35:*.ppm=00;35:*.tga=00;35:*.xbm=00;35:*.xpm=00;35:*.tif=00;35:*.tiff=00;35:*.png=00;35:*.mng=00;35:*.pcx=00;35:*.mov=00;35:*.mpg=00;35:*.mpeg=00;35:*.m2v=00;35:*.mkv=00;35:*.ogm=00;35:*.mp4=00;35:*.m4v=00;35:*.mp4v=00;35:*.vob=00;35:*.qt=00;35:*.nuv=00;35:*.wmv=00;35:*.asf=00;35:*.rm=00;35:*.rmvb=00;35:*.flc=00;35:*.avi=00;35:*.fli=00;35:*.gl=00;35:*.dl=00;35:*.xcf=00;35:*.xwd=00;35:*.yuv=00;35:*.svg=00;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:</value>
+    <value type="QString">MAIL=/var/spool/mail/edemairy</value>
+    <value type="QString">OLDPWD=/user/edemairy/home/devel/dtk</value>
+    <value type="QString">PATH=/usr/local/Trolltech/Qt-4.7.0/bin:/usr/lib64/qt-3.3/bin:/usr/kerberos/bin:/usr/lib64/ccache:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin:/sbin:/user/edemairy/home/bin:/usr/local/cuda/bin</value>
+    <value type="QString">PROFILEHOME=</value>
+    <value type="QString">PWD=/user/edemairy/home/devel/dtk/cmake</value>
+    <value type="QString">QTDIR=/user/edemairy/home/devel/qt-build</value>
+    <value type="QString">QTINC=/usr/lib64/qt-3.3/include</value>
+    <value type="QString">QTLIB=/usr/lib64/qt-3.3/lib</value>
+    <value type="QString">QT_PLUGIN_PATH=/user/edemairy/home/.kde/lib64/kde4/plugins/:/usr/lib64/kde4/plugins/</value>
+    <value type="QString">SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/3267,unix/unix:/tmp/.ICE-unix/3267</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=3</value>
+    <value type="QString">SSH_AGENT_PID=3147</value>
+    <value type="QString">SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/ssh-hseNaE3093/agent.3093</value>
+    <value type="QString">TERM=xterm</value>
+    <value type="QString">USER=edemairy</value>
+    <value type="QString">USERNAME=edemairy</value>
+    <value type="QString">WINDOWID=50331676</value>
+    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-edemairy-cj46lw/database</value>
+    <value type="QString">XCURSOR_THEME=default</value>
+    <value type="QString">XDG_DATA_DIRS=/usr/share/kde-settings/kde-profile/default/share:/usr/local/share:/usr/share</value>
+    <value type="QString">XDG_MENU_PREFIX=kde4-</value>
+    <value type="QString">XDG_SESSION_COOKIE=74afa148571856ae738d33d74ac4c55a-1278658974.209147-1706829686</value>
+    <value type="QString">_=/usr/bin/qtcreator.bin</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">/home/edemairy/devel/testGraph/testGraph.pro</value>
+    <value type="QString">-spec</value>
+    <value type="QString">/usr/local/Trolltech/Qt-4.7.0/mkspecs/linux-g++-64</value>
+    <value type="QString">-r</value>
+    <value type="QString">CONFIG+=debug</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/user/edemairy/home/devel/qt-build/bin/qmake</value>
+   <value key="abstractProcess.enabled" type="bool">false</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/edemairy/devel/testGraph</value>
+   <value key="buildConfiguration" type="int">2</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">CGAL_MAKEFILE=/usr/share/CGAL/cgal-64.mk</value>
+    <value type="QString">COLORFGBG=15;0</value>
+    <value type="QString">CVS_RSH=ssh</value>
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-GYN0CgIxpT,guid=82a08b177127a82f9be010db4c36c99e</value>
+    <value type="QString">DESKTOP_SESSION=kde</value>
+    <value type="QString">DISPLAY=:0</value>
+    <value type="QString">EDITOR=vi</value>
+    <value type="QString">GDMSESSION=kde</value>
+    <value type="QString">GDM_LANG=en_US.UTF-8</value>
+    <value type="QString">GNOME_KEYRING_PID=3091</value>
+    <value type="QString">GNOME_KEYRING_SOCKET=/tmp/keyring-Ya1pJj/socket</value>
+    <value type="QString">GPG_AGENT_INFO=/tmp/gpg-rklzwc/S.gpg-agent:3204:1</value>
+    <value type="QString">GS_LIB=</value>
+    <value type="QString">GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/user/edemairy/home/.gtkrc-2.0::/home/edemairy/.kde/share/config/gtkrc-2.0</value>
+    <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/user/edemairy/home/.gtkrc::/home/edemairy/.kde/share/config/gtkrc</value>
+    <value type="QString">G_BROKEN_FILENAMES=1</value>
+    <value type="QString">HISTSIZE=1000</value>
+    <value type="QString">HOME=/user/edemairy/home</value>
+    <value type="QString">HOSTNAME=ysera</value>
+    <value type="QString">KDEDIRS=/usr</value>
+    <value type="QString">KDE_FULL_SESSION=true</value>
+    <value type="QString">KDE_IS_PRELINKED=1</value>
+    <value type="QString">KDE_MULTIHEAD=false</value>
+    <value type="QString">KDE_SESSION_UID=1505</value>
+    <value type="QString">KDE_SESSION_VERSION=4</value>
+    <value type="QString">KONSOLE_DBUS_SERVICE=:1.38</value>
+    <value type="QString">KONSOLE_DBUS_SESSION=/Sessions/4</value>
+    <value type="QString">LANG=en_US.UTF-8</value>
+    <value type="QString">LANGUAGE=</value>
+    <value type="QString">LD_LIBRARY_PATH=/usr/local/cuda/lib64</value>
+    <value type="QString">LESSOPEN=|/usr/bin/lesspipe.sh %s</value>
+    <value type="QString">LOGNAME=edemairy</value>
+    <value type="QString">LS_COLORS=no=00:fi=00:di=00;34:ln=00;36:pi=40;33:so=00;35:do=00;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=00;32:*.tar=00;31:*.tgz=00;31:*.svgz=00;31:*.arj=00;31:*.taz=00;31:*.lzh=00;31:*.lzma=00;31:*.zip=00;31:*.z=00;31:*.Z=00;31:*.dz=00;31:*.gz=00;31:*.bz2=00;31:*.tbz2=00;31:*.bz=00;31:*.tz=00;31:*.deb=00;31:*.rpm=00;31:*.jar=00;31:*.rar=00;31:*.ace=00;31:*.zoo=00;31:*.cpio=00;31:*.7z=00;31:*.rz=00;31:*.jpg=00;35:*.jpeg=00;35:*.gif=00;35:*.bmp=00;35:*.pbm=00;35:*.pgm=00;35:*.ppm=00;35:*.tga=00;35:*.xbm=00;35:*.xpm=00;35:*.tif=00;35:*.tiff=00;35:*.png=00;35:*.mng=00;35:*.pcx=00;35:*.mov=00;35:*.mpg=00;35:*.mpeg=00;35:*.m2v=00;35:*.mkv=00;35:*.ogm=00;35:*.mp4=00;35:*.m4v=00;35:*.mp4v=00;35:*.vob=00;35:*.qt=00;35:*.nuv=00;35:*.wmv=00;35:*.asf=00;35:*.rm=00;35:*.rmvb=00;35:*.flc=00;35:*.avi=00;35:*.fli=00;35:*.gl=00;35:*.dl=00;35:*.xcf=00;35:*.xwd=00;35:*.yuv=00;35:*.svg=00;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:</value>
+    <value type="QString">MAIL=/var/spool/mail/edemairy</value>
+    <value type="QString">OLDPWD=/user/edemairy/home/devel/dtk</value>
+    <value type="QString">PATH=/usr/local/Trolltech/Qt-4.7.0/bin:/usr/lib64/qt-3.3/bin:/usr/kerberos/bin:/usr/lib64/ccache:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin:/sbin:/user/edemairy/home/bin:/usr/local/cuda/bin</value>
+    <value type="QString">PROFILEHOME=</value>
+    <value type="QString">PWD=/user/edemairy/home/devel/dtk/cmake</value>
+    <value type="QString">QTDIR=/user/edemairy/home/devel/qt-build</value>
+    <value type="QString">QTINC=/usr/lib64/qt-3.3/include</value>
+    <value type="QString">QTLIB=/usr/lib64/qt-3.3/lib</value>
+    <value type="QString">QT_PLUGIN_PATH=/user/edemairy/home/.kde/lib64/kde4/plugins/:/usr/lib64/kde4/plugins/</value>
+    <value type="QString">SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/3267,unix/unix:/tmp/.ICE-unix/3267</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=3</value>
+    <value type="QString">SSH_AGENT_PID=3147</value>
+    <value type="QString">SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/ssh-hseNaE3093/agent.3093</value>
+    <value type="QString">TERM=xterm</value>
+    <value type="QString">USER=edemairy</value>
+    <value type="QString">USERNAME=edemairy</value>
+    <value type="QString">WINDOWID=50331676</value>
+    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-edemairy-cj46lw/database</value>
+    <value type="QString">XCURSOR_THEME=default</value>
+    <value type="QString">XDG_DATA_DIRS=/usr/share/kde-settings/kde-profile/default/share:/usr/local/share:/usr/share</value>
+    <value type="QString">XDG_MENU_PREFIX=kde4-</value>
+    <value type="QString">XDG_SESSION_COOKIE=74afa148571856ae738d33d74ac4c55a-1278658974.209147-1706829686</value>
+    <value type="QString">_=/usr/bin/qtcreator.bin</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/edemairy/devel/testGraph</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <value key="buildConfiguration" type="int">0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfigurations</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">Debug</value>
+   <value type="QString">Release</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="mkspec" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildsteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.qmake</value>
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="clean" type="bool">true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>cleansteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>defaultFileEncoding</variable>
+  <value type="QByteArray">UTF-8</value>
+ </data>
+ <data>
+  <variable>project</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+</qtcreator>
