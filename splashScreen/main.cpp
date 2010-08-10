@@ -6,7 +6,7 @@ int main(int argc, char *argv[])
  {
      QApplication app(argc, argv);
 //     QPixmap pixmap(":/splash.png");
-     QPixmap pixmap("/home/edemairy/devel/hello_world.png");
+     QPixmap pixmap("../hello_world.png");
      QSplashScreen splash(pixmap);
      splash.show();
      app.processEvents();
