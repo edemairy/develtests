@@ -1,0 +1,7 @@
+project(flipmo)
+find_package(Qt4 4.4.3 COMPONENTS QtCore QtGui REQUIRED )
+include(${QT_USE_FILE})
+include_directories( ${CMAKE_BINARY_DIR} )
+QT4_WRAP_CPP( MOC_FILES flipmo.cpp )
+add_executable(${PROJECT_NAME} flipmo.cpp )
+target_link_libraries(${PROJECT_NAME}  ${QT_LIBRARIES})
