@@ -1,19 +1,4 @@
-#include <QtGui>
-
-class FlipWidget : public QGraphicsWidget
-{
-    Q_OBJECT
-public:
-    FlipWidget(QGraphicsItem *parent = 0);
-Q_SIGNALS:
-    void flipRequest(); // private
-protected:
-    void resizeEvent(QGraphicsSceneResizeEvent *event);
-private slots:
-    void togglePage();
-private:
-    QStackedWidget *m_stack;
-};
+#include "flipmo.h"
 
 FlipWidget::FlipWidget(QGraphicsItem *parent)
     : QGraphicsWidget(parent)
@@ -120,4 +105,4 @@ int main(int argc, char **argv)
     return app.exec();
 }
 
-#include "moc_flipmo.cxx"
+//#include "moc_flipmo.cxx"
